@@ -1,0 +1,5 @@
+name: HROracle
+description: HR & people analytics — 10 tools
+endpoint: https://tooloracle.io/hr/mcp/
+transport: streamable-http
+license: MIT
